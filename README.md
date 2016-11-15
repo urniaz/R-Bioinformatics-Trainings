@@ -2,6 +2,8 @@
 
 #### An Introduction to Solving Biological Problems with R
 http://cambiotraining.github.io/r-intro/
+#### Data Manipulation and Visualisation using R
+http://bioinformatics-core-shared-training.github.io/r-intermediate/
 #### Analysis of single-cell RNA-seq data
 http://hemberg-lab.github.io/scRNA.seq.course/
 #### Bioinformatics Training Materials

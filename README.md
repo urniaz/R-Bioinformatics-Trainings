@@ -1,5 +1,6 @@
 # Bioinformatics Trainings
-
+#### R-crash-course - introduction to the R language
+https://bioinformatics-core-shared-training.github.io/r-crash-course/
 #### An Introduction to Solving Biological Problems with R
 http://cambiotraining.github.io/r-intro/
 #### Data Manipulation and Visualisation using R

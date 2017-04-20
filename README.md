@@ -19,3 +19,5 @@ http://bioinformatics-core-shared-training.github.io/ngs-in-bioc/
 http://bioinformatics-core-shared-training.github.io/intermediate-stats/
 #### Next Generation Sequencing for Regulatory Genomics (ChIP-seq, ATAC-seq and Hi-C)
 https://github.com/shamith-s/NGS_course
+#### R object-oriented programming and package development
+http://logic.sysbiol.cam.ac.uk/teaching/advancedR/

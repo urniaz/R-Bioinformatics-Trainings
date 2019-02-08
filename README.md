@@ -1,5 +1,5 @@
 <img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" width="20%" height="20%" />
-
+<img src="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/cruk-logo.svg" width="70%" height="70%" />
 
 # Bioinformatics Trainings
 #### R-crash-course - introduction to the R language

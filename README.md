@@ -1,4 +1,4 @@
-<div align="right"><b></b><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" width="20%" height="20%" />   <img src="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/cruk-logo.svg" width="15%" height="15%" /></div>
+<div align="right"><b></b><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" width="20%" height="20%" />       <img src="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/cruk-logo.svg" width="15%" height="15%" /></div>
 
 # Bioinformatics Trainings
 #### R-crash-course - introduction to the R language

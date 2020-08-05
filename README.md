@@ -20,6 +20,6 @@ http://bioinformatics-core-shared-training.github.io/ngs-in-bioc/
 #### Further Statistical Analysis Using R - For those that want to go further with stats and are familiar with R
 http://bioinformatics-core-shared-training.github.io/intermediate-stats/
 #### Next Generation Sequencing for Regulatory Genomics (ChIP-seq, ATAC-seq and Hi-C)
-https://github.com/shamith-s/NGS_course
-#### R object-oriented programming and package development
-http://logic.sysbiol.cam.ac.uk/teaching/advancedR/
+https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2019/
+#### Other Teaching Materials
+http://lgatto.github.io/TeachingMaterial/

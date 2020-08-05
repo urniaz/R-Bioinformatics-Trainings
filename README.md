@@ -1,6 +1,8 @@
 <div align="right"><b></b><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" width="20%" height="20%" />       <img src="https://www.cancerresearchuk.org/sites/all/themes/custom/cruk/cruk-logo.svg" width="15%" height="15%" /></div>
 
 # R & Bioinformatics Trainings
+This repository is an aggregator for various R, make and git/github teaching materials. Most of the courses are taught at the University of Cambridge, UK, and some have been adapted and exported outside.
+
 #### R-crash-course - introduction to the R language
 https://bioinformatics-core-shared-training.github.io/r-crash-course/
 #### An Introduction to Solving Biological Problems with R

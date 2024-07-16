@@ -2,7 +2,7 @@
 
 # R, Python, Bioinformatics Trainings
 
-The R and Bioinformatics courses from the University of Cambridge, UK, and other partners institutes.
+R, Python and Bioinformatics courses from the University of Cambridge, UK, and other partners institutions.
 
 #### R-crash-course - introduction to the R language
 https://bioinformatics-core-shared-training.github.io/r-crash-course/
